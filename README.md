@@ -130,4 +130,4 @@ erDiagram
 
 * Website: [devprakhar.com](https://devprakhar.com)
 * Email: hi@devprakhar.com
-* LinkedIn: [Prakhar Srivastava](www.linkedin.com/in/asyncioprakhar)
+* LinkedIn: [Prakhar Srivasatava](https://linkedin.com/in/asyncioprakhar)
